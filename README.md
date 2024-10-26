@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinethemba</h1>
 <h3 align="center">Data Analytics and Software development</h3>
-<img align="Right" alt ="coding" width="400" scr="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg?w=2000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinethemba123&label=Profile%20views&color=0e75b6&style=flat" alt="sinethemba123" /> </p>
 
